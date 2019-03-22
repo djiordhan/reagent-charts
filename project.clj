@@ -28,5 +28,6 @@
 
   :dependencies [[org.clojure/clojure "1.7.0"]
                  [org.clojure/clojurescript "0.0-3308"]
+                 [cljsjs/react-router "0.12.0-0"]
                  [reagent "0.5.0"]
                  [org.clojure/core.async "0.1.346.0-17112a-alpha"]])
