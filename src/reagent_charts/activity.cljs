@@ -1,4 +1,5 @@
-(ns reagent-charts.activity)
+(ns reagent-charts.activity
+  (:require [accountant.core :as accountant]))
 
 (defn activity []
   [:div {} 
